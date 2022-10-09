@@ -76,6 +76,7 @@ hr.solid {
 .nav-item {
     color: white;
     transition: background-color 0.4s;
+    text-align: center;
 }
 
 .biela {
