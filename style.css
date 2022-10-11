@@ -56,11 +56,15 @@ body {
 }
 
 .bleda {
-    background-color: #a5a5a5;
+    background-color: #e6e6e6;
 }
 
 hr.solid {
     border-top: 3px solid black;
+}
+
+.obsah {
+    border-radius: 5px;
 }
 
 .odkaz {
